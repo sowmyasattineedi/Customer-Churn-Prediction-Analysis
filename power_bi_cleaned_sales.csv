@@ -1,0 +1,6 @@
+id,order_date,category,region,segment,sales,profit,orders,customers,profit_margin_pct,avg_order_value
+1,2023-01-15,Technology,West,Corporate,550000.0,78250.0,1200,300,14.23,458.33
+2,2023-03-22,Furniture,East,Consumer,420000.0,58100.0,950,250,13.83,442.11
+3,2023-06-10,Office Supplies,Central,Home Office,310000.0,44200.0,810,210,14.26,382.72
+4,2023-09-18,Technology,East,Corporate,620000.0,89300.0,1450,320,14.4,427.59
+5,2023-11-05,Furniture,West,Consumer,410000.0,59870.0,1268,165,14.6,323.34
