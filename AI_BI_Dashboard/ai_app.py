@@ -71,4 +71,4 @@ if user_query:
         st.write("Query did not match standard intent structures. Please use verified criteria fields.")
 
 st.subheader("Transaction Log Stream")
-st.dataframe(df.head(25), width="container")
+st.dataframe(df.head(25), use_container_width=True)
